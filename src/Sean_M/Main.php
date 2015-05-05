@@ -3,7 +3,7 @@ namespace Sean_M\DeathKick;
 
 use pocketmine\event\Listener;
 use pocketmine\plugin\PluginBase;
-use pocketmine\Player
+use pocketmine\Player;
 use pocketmine\event\player\PlayerDeathEvent;
 
 
