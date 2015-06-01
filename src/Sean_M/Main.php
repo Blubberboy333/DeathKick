@@ -1,5 +1,5 @@
 <?php
-namespace Sean_M\DeathKick;
+namespace Sean_M;
 
 use pocketmine\event\Listener;
 use pocketmine\plugin\PluginBase;
